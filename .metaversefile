@@ -1,0 +1,11 @@
+{
+  "start_url": "https://plankatron.github.io/loot-assets/chest/Chain_Mail/chain_mail.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "skinnedMesh": "chain_mail"
+      }
+    }
+  ]
+}
